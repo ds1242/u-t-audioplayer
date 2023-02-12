@@ -1,4 +1,8 @@
-.progress-bar {
-    background-color: orange;
+.song-progress-bar {
+    background-color: #FF8200;
     padding: 10px;
+}
+
+.control-buttons{ 
+    padding: 0 25px 25px 25px;
 }
